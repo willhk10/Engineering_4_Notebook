@@ -12,7 +12,6 @@
 
 
 # Hello_World
-  [Code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/hello_world.py)
 This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/hello_world.py) required us to learn how to set up the Raspberry pi, which included logging into the Pi, using the Sudo Nano command to create the file, and running the file.
 
 
