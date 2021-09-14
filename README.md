@@ -16,7 +16,8 @@ This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/P
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Spicy_Dice_Roller.png" alt="alt text" width="600" height="500">
 # Dice_Roller
 
-<img src="" alt="alt text" width="500" height="500">
+### Spicy Version :)
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Dice_Roller_Spicy.png" alt="alt text" width="500" height="500">
 
 
 
