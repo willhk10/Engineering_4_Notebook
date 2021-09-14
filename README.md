@@ -4,7 +4,7 @@
 ## TableofContents
 * [Hello World (First assignment with Pi)](#Hello_World)
 * [Dice Roller](#Dice_Roller)
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Spicy Version](Dice_Roller)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](Dice_Roller)
 * [Python Calculator](#Python_Calculator)
 /t [Spicy Version](#Spicy_Version)
 * 
