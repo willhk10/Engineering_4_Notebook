@@ -4,7 +4,7 @@
 ## TableofContents
 * [Hello World (First assignment with Pi)](#Hello_World)
 * [Dice Roller](#Dice_Roller) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Dice_Roller)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version_Of_Dice)*
 * [Python Calculator](#Python_Calculator) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
 * 
@@ -17,7 +17,7 @@ This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/P
 # Dice_Roller
 ~Description~
 
-## Spicy Version :)
+## Spicy_Version_Of_Dice
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Dice_Roller_Spicy.png" alt="alt text" width="400" height="300">
 
 
@@ -27,5 +27,5 @@ This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/P
 
 Here is the [Code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Python_Calculator.py) for this project.
 
-## Spicy_Version :)
+## Spicy_Version
 This was almost the exact same as the previous assignment, however with a small addition. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
