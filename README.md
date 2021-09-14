@@ -15,14 +15,17 @@
 This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/hello_world.py) required us to learn how to set up the Raspberry pi, which included logging into the Pi, using the Sudo Nano command to create the file, and running the file.
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Spicy_Dice_Roller.png" alt="alt text" width="600" height="500">
 # Dice_Roller
+~Description~
 
-### Spicy Version :)
+## Spicy Version :)
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Dice_Roller_Spicy.png" alt="alt text" width="400" height="300">
 
 
 
 # Python_Calculator
-## [Code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Python_Calculator.py)
+~Description~
 
-### Spicy_Version :)
+Here is the [Code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Python_Calculator.py) for this project.
+
+## Spicy_Version :)
 This was almost the exact same as the previous assignment, however with a small addition. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
