@@ -5,7 +5,7 @@
 * [Hello World (First assignment with Pi)](#Hello_World)
 * [Dice Roller](#Dice_Roller) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Dice_Roller)*
-* [Python Calculator](#Python_Calculator)
+* [Python Calculator](#Python_Calculator) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
 * 
 
