@@ -59,8 +59,20 @@ print("Modulo:\t\t" + str(doMath(a,b,5)))
 ```
 
 ## Spicy_Version
-This was almost the exact same as the previous assignment, however with a small addition. We had to add another calculation - **the factorial**. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
-
+This was almost the exact same as the previous assignment, however with a small addition. We had to add another calculation - **the factorial**. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The only addition I had to make to the code were some lines defining factorials:
+``` python
+if operation == 6: #DEFINES FACTORIAL
+        babba = 1
+        for i in range(1,a+1):
+           babba = a * babba
+        return(babba)
+    if operation == 7: #DEFINES FACTORIAL
+        boey = 1
+        for i in range(1,b+1):
+           boey = a * boey
+        return(boey)
+```
+Since a factorial is essentially raising a number to its own value, the code above runs through a loop ***a*** (value to find factorial of) times, and multiplies the previous value by ***a*** each time. 
 
 # Quadratic_Solver
 
