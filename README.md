@@ -51,9 +51,9 @@ def doMath(a, b, operation): #SETS UP THE FUNCTION TO CALL IN THE CALCULATOR
 ```
 I could then use the definition of each operation as a numerical value to call it in a print statement. This looked something like this:
 ``` python
-print("Sum:\t\t" + str(doMath(a,b,1))) 
-print("Difference:\t" + str(doMath(a,b,2)))
-print("Product:\t" + str(doMath(a,b,3)))
+print("Sum:\t\t" + str(doMath(a,b,1)))  # a = first value
+print("Difference:\t" + str(doMath(a,b,2))) # b = second value
+print("Product:\t" + str(doMath(a,b,3))) # numerical value at the end calls the corresponding operation defined in the doMath function
 print("Quotient:\t" + str(doMath(a,b,4)))
 print("Modulo:\t\t" + str(doMath(a,b,5)))
 ```
