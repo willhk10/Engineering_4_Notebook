@@ -49,10 +49,17 @@ def doMath(a, b, operation): #SETS UP THE FUNCTION TO CALL IN THE CALCULATOR
     if operation == 5: #DEFINES MODULO
         return int(a % b)
 ```
-
+I could then use the definition of each operation as a numerical value to call it in a print statement. This looked something like this:
+``` python
+print("Sum:\t\t" + str(doMath(a,b,1))) 
+print("Difference:\t" + str(doMath(a,b,2)))
+print("Product:\t" + str(doMath(a,b,3)))
+print("Quotient:\t" + str(doMath(a,b,4)))
+print("Modulo:\t\t" + str(doMath(a,b,5)))
+```
 
 ## Spicy_Version
-This was almost the exact same as the previous assignment, however with a small addition. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
+This was almost the exact same as the previous assignment, however with a small addition. We had to add another calculation - **the factorial**. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
 
 
 # Quadratic_Solver
