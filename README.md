@@ -1,13 +1,13 @@
 # Engineering_4_Notebook
 ### This is my exploration through Raspberry Pi, Python, and everything else Engineering 4 may offer.
 
-## TableofContents
+## Table_of_Contents
 * [Hello World (First assignment with Pi)](#Hello_World)
 * [Dice Roller](#Dice_Roller) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version_Of_Dice)*
 * [Python Calculator](#Python_Calculator) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
-* 
+* [Quadratic Solver](#Quadratic_Solver)
 
 
 
@@ -53,6 +53,9 @@ def doMath(a, b, operation): #SETS UP THE FUNCTION TO CALL IN THE CALCULATOR
 
 ## Spicy_Version
 This was almost the exact same as the previous assignment, however with a small addition. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
+
+
+# Quadratic_Solver
 
 
 # [Back To Top](#Engineering_4_Notebook)
