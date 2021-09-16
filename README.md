@@ -27,8 +27,8 @@ There were very little challenges that I encountered throughout this assignment,
 The spicy version was mostly identical to the original assignment, however one very important "else:" statement was added to the end, along with two more inputs.
 ``` python
 else:
-	for x in range (0,r):
-		roll_dice()
+		for x in range (0,r):
+			roll_dice()
 ```
 The point of these lines were to roll the die as many times as were asked. An input to change the amount of die rolled was added and defined as "r", which was the ending range of the loop. Additionally, we had to make sure they could have as many faces on the die that they wanted. This was achieved by changing the static range of (1, 6) to (1, n), with n being an input of the amount of faces.
 
