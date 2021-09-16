@@ -35,9 +35,21 @@ else:
 The point of these lines were to roll the die as many times as were asked. An input to change the amount of die rolled was added and defined as "r", which was the ending range of the loop. Additionally, we had to make sure they could have as many faces on the die that they wanted. This was achieved by changing the static range of (1, 6) to (1, n), with n being an input of the amount of faces.
 
 # Python_Calculator
-~Description~
+The [Python Calculator](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Python_Calculator.py) was one of the more challening projects initially, as I had to review my knowledge of lists, and functions. The main purpose of the assingment was to have two numbers inputted, and for the calculator to spit out the sum, difference, quotient, product, and percentage(modulo). In order to set this up, I had to first use two input statements to have the two numbers I would be using for the calculations. Then, the function had to be defined and created. 
+``` python
+def doMath(a, b, operation): #SETS UP THE FUNCTION TO CALL IN THE CALCULATOR
+    if operation == 1: # DEFINES SUM
+        return int(a + b)
+    if operation == 2: #DEFINES DIFFERENCE
+        return int(a - b)
+    if operation == 3: #DEFINES PRODUCT
+        return int(a * b)
+    if operation == 4: #DEFINES PRODUCT
+        return int(a / b)
+    if operation == 5: #DEFINES MODULO
+        return int(a % b)
+```
 
-Here is the [Code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Python_Calculator.py) for this project.
 
 ## Spicy_Version
 This was almost the exact same as the previous assignment, however with a small addition. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The code for this assignment is [HERE](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/python_calculator_spicy.py).
