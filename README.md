@@ -25,7 +25,8 @@ There were very little challenges that I encountered throughout this assignment,
 ## Spicy_Version_Of_Dice
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Dice_Roller_Spicy.png" alt="alt text" width="400" height="300">
 The spicy version was mostly identical to the original assignment, however one very important "else:" statement was added to the end, along with two more inputs.
-```python
+``` python
+
 else:
 	for x in range (0,r):
 		roll_dice()
