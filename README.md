@@ -15,7 +15,15 @@
 This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/hello_world.py) required us to learn how to set up the Raspberry pi, which included logging into the Pi, using the Sudo Nano command to create the file, and running the file.
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Spicy_Dice_Roller.png" alt="alt text" width="600" height="500">
 # Dice_Roller
-The dice roller required us to import a library into the Raspberry pi library with 
+The [dice roller](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/dice_roller.py) required us to import a library into the Raspberry pi library with 
+``` python
+import random
+```
+. This allowed me to create a dice roller that would select a random number 1 to 6. I then had to create a 
+```python 
+while True:
+```
+loop
 
 ## Spicy_Version_Of_Dice
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Dice_Roller_Spicy.png" alt="alt text" width="400" height="300">
