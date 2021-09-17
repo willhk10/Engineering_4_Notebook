@@ -15,8 +15,10 @@
 This [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/hello_world.py) required us to learn how to set up the Raspberry pi, which included connecting and logging into the Pi, which was surpisingly more difficult than I had previously anticipated. There were 4 plugs from the USB that we had to connect to the pi, and it looked something like this. <br/>
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Pi.jpg" alt="alt text" width="500" height="500">
 
-We then had to log in using the default **username:** *pi*, and **password:** *raspberry* using the Sudo Nano command to create the file, and we then ran the file.
+We then had to log in using the default **username:** *pi*, and **password:** *raspberry* using the Sudo Nano command to create the file, and we then ran the file.<br/>
+
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Spicy_Dice_Roller.png" alt="alt text" width="600" height="500">
+<br/>
 # ***Dice_Roller***
 The purpose of the [dice roller](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/dice_roller.py) was pretty self explanatory. We had to make a virtual dice with 6 sides. In order to do this, we had to figure out how to make things random, which required us to import a library into the Raspberry pi library with 
 ``` python
@@ -24,6 +26,7 @@ import random
 ```
 This allowed me to create a dice roller that would select a random number 1 to 6. I then had to create a "while True:" loop that would go through the code infinitely. <br/>
 There were very little challenges that I encountered throughout this assignment, with the only one being not having imported the "rand" function.
+<br/>
 
 ## **Spicy_Version_Of_Dice**
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Dice_Roller_Spicy.png" alt="alt text" width="600" height="400">
@@ -36,6 +39,7 @@ else:
 ```
 
 The point of these lines were to roll the die as many times as were asked. An input to change the amount of die rolled was added and defined as "r", which was the ending range of the loop. Additionally, we had to make sure they could have as many faces on the die that they wanted. This was achieved by changing the static range of (1, 6) to (1, n), with n being an input of the amount of faces.
+<br/>
 
 # ***Python_Calculator***
 The [Python Calculator](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Python_Calculator.py) was one of the more challening projects initially, as I had to review my knowledge of lists, and functions. The main purpose of the assingment was to have two numbers inputted, and for the calculator to spit out the sum, difference, quotient, product, and percentage(modulo). In order to set this up, I had to first use two input statements to have the two numbers I would be using for the calculations. Then, the function had to be defined and created. 
@@ -76,6 +80,7 @@ if operation == 6: #DEFINES FACTORIAL
         return(boey)
 ```
 Since a factorial is essentially raising a number to its own value, the code above runs through a loop ***a*** (value to find factorial of) times, and multiplies the previous value by ***a*** each time. 
+<br/>
 
 # ***Quadratic_Solver***
 
