@@ -46,6 +46,8 @@ else:
 ```
 
 The point of these lines were to roll the die as many times as were asked. An input to change the amount of die rolled was added and defined as "r", which was the ending range of the loop. Additionally, we had to make sure they could have as many faces on the die that they wanted. This was achieved by changing the static range of (1, 6) to (1, n), with n being an input of the amount of faces.
+#### [Back To Top](#Engineering_4_Notebook)
+
 <br/>
 
 # ***Python_Calculator***
@@ -87,6 +89,8 @@ if operation == 6: #DEFINES FACTORIAL
         return(boey)
 ```
 Since a factorial is essentially raising a number to its own value, the code above runs through a loop ***a*** (value to find factorial of) times, and multiplies the previous value by ***a*** each time. 
+#### [Back To Top](#Engineering_4_Notebook)
+
 <br/>
 
 # ***Quadratic_Solver***
