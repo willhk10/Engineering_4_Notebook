@@ -9,6 +9,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
 * [Quadratic Solver](#Quadratic_Solver)
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 # ***Hello_World***
