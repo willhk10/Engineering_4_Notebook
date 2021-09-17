@@ -107,7 +107,15 @@ Since Mr. Miller decided to be difficult and not allow us to print everything ou
 ```python
         roots = [root1, root2]
         return roots, discrim 
-	```
-
+```
+Because this is all inside of the function doMath, I then had to actually call the function, while defining the variables beforehand as to not get any error messages. Mr. Miller and I struggled with this for some time. Here is the final result of the printing function that you see after inputting the three variables.
+```python
+(roots, discrim) = doMath(a, b, c)
+    if discrim >= 0:
+        print("root 1: " + str(roots[0]))
+        print("root 2: " + str(roots[1]))
+    else:
+        print("No Real Roots")
+```
 
 # [Back To Top](#Engineering_4_Notebook)
