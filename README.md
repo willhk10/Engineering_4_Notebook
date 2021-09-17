@@ -84,6 +84,30 @@ Since a factorial is essentially raising a number to its own value, the code abo
 <br/>
 
 # ***Quadratic_Solver***
+The [Quadratic Solver](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/Quadratic_Solvey.py) is a program that solves a quadratic equation for the two roots, and if there are no real roots, does not create an error but rather exits the program. The program i created accepts three values: The first being the coefficient of a^2, the second being that of bx, and the last being the constant of the equation. <br/>
+### *Process*
+I knew that I would need to use the quadratic equation, which is (-b +- sqr(b^2 -4ac))/2 , so all I had to do was ask for the values of a, b, and c, and just stick it into the equation. Right? <br/>
+***no.*** <br/>
+I had to first create a function called doMath, and solve for the discriminant of the equation and determine if it was positive or negative with this line:
+```python
+discrim = int((b*b)- 4 * a * c)
+```
+We could then either solve for the roots if it was positive, or exit the program if it was negative:
+```python
+if discrim >= 0:
+        root1 = int(-b + sqrt((b*b)- 4 * a * c))/ (2* a)
+        root2 = int(-b - sqrt((b*b)- 4 * a * c))/ (2* a)
+        discrim = int((b*b)- 4 * a * c)
+        roots = [root1, root2]
+        return roots, discrim 
+    if discrim < 0:
+        return "", discrim
+```
+Since Mr. Miller decided to be difficult and not allow us to print everything out in the function itself, we had to learn how to call lines and variables outside of the function itself. That is where these two lines come into play:
+```python
+        roots = [root1, root2]
+        return roots, discrim 
+	```
 
 
 # [Back To Top](#Engineering_4_Notebook)
