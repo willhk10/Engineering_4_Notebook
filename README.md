@@ -132,8 +132,19 @@ Because this is all inside of the function doMath, I then had to actually call t
 <br/>
 
 # ***LoopsAndStrings***
-
+The purpose of this [assignment](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/StringsAndLoops.py) was to learn how to use the .split function, as well as exploring more about arrays, lists, and loops. We had to receive a sentence in an input and then seperate it into letters with a line break inbetween each one, and then add a dash in between every space in the sentence, with an extra dash at the end. <br/>
+I first had to do a brief review of how to write [incrementing loops,](https://www.geeksforgeeks.org/ways-to-increment-iterator-from-inside-the-for-loop-in-python/) strings, and use the [.split](https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_split2) function. 
+```python
+for i in split1:
+    print("-")
+    for b in i:
+        print(b)
+print("-")
+```
+These lines of code are going through each line of the list provided by the split input and printing out each character on a line. The print("-") is inputting a dash whenever there is a gap inbetween words. <br/>
 
 ### *LoopsAndStrings_Spicy_Version*
+The purpose of this assignment is to do the code for the Loops and Strings assignment in as little amount of lines as possible. I successfully got the code from 9 lines all the way down to 5. I do have to give some credit to my classmate [Alden Dent](https://github.com/adent11) for assisting me with getting it to 1.
+
 
 # [Back To Top](#Engineering_4_Notebook)
