@@ -130,7 +130,9 @@ Because this is all inside of the function doMath, I then had to actually call t
         print("No Real Roots")
 ```
 <br/>
+
 # ***LoopsAndStrings***
+
 
 ### *LoopsAndStrings_Spicy_Version*
 
