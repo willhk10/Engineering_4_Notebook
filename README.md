@@ -8,7 +8,7 @@
 * [Python Calculator](#Python_Calculator) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
 * [Quadratic Solver](#Quadratic_Solver)
-* [Seperating Words for Some Reason](#LoopsAndStrings)
+* [Seperating Words for Some Reason](#LoopsAndStrings) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Making It Harder for Some Reason](#LoopsAndStrings_Spicy_Version)*
 
 <br/>
