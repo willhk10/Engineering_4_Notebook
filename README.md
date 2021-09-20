@@ -8,6 +8,8 @@
 * [Python Calculator](#Python_Calculator) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
 * [Quadratic Solver](#Quadratic_Solver)
+* [Seperating Words for Some Reason](#LoopsAndStrings)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Making It Harder for Some Reason](#LoopsAndStrings_Spicy_Version)*
 
 <br/>
 <br/>
@@ -127,5 +129,9 @@ Because this is all inside of the function doMath, I then had to actually call t
     else:
         print("No Real Roots")
 ```
+<br/>
+# ***LoopsAndStrings***
+
+### *LoopsAndStrings_Spicy_Version*
 
 # [Back To Top](#Engineering_4_Notebook)
