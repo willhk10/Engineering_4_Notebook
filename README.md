@@ -156,7 +156,7 @@ The purpose of this assignment is to do the code for the Loops and Strings assig
 <br/>
 
 # ***Sudoku***
-
+notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 <br/>
 <br/>
 <br/>
