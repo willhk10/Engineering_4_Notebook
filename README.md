@@ -10,6 +10,8 @@
 * [Quadratic Solver](#Quadratic_Solver)
 * [Seperating Words for Some Reason](#LoopsAndStrings) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Making It Harder for Some Reason](#LoopsAndStrings_Spicy_Version)*
+* [Hangman(but you cut him apart](#Hangman)
+* [Sudoku!!!!!](#Sudoku)
 
 <br/>
 <br/>
@@ -146,5 +148,18 @@ These lines of code are going through each line of the list provided by the spli
 ### *LoopsAndStrings_Spicy_Version*
 The purpose of this assignment is to do the code for the Loops and Strings assignment in as little amount of lines as possible. I successfully got the code from 9 lines all the way down to 5. I do have to give some credit to my classmate [Alden Dent](https://github.com/adent11) for assisting me with getting it to 1.
 
+# ***Hangman***
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# ***Sudoku***
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 # [Back To Top](#Engineering_4_Notebook)
