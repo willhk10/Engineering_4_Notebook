@@ -149,7 +149,7 @@ These lines of code are going through each line of the list provided by the spli
 The purpose of this assignment is to do the code for the Loops and Strings assignment in as little amount of lines as possible. I successfully got the code from 9 lines all the way down to 5. I do have to give some credit to my classmate [Alden Dent](https://github.com/adent11) for assisting me with getting it to 1.
 
 # ***Hangman***
-
+Before the explanation, here are a few things you should look up and understand before you attempt to write the [Hangman](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/PerfectHangman.py) 
 <br/>
 <br/>
 <br/>
