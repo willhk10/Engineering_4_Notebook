@@ -152,11 +152,39 @@ The purpose of this assignment is to do the code for the Loops and Strings assig
 Before the explanation, here are a few things you should look up and understand before you attempt to write the [Hangman program](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/PerfectHangman.py) You need to understand how to take the length of a word and use it in code, use functions, and return variables inside of a function. [Here](https://www.w3schools.com/python/python_functions.asp) is a really good resource that I was fortunate enough to find for help with functions.
 <br/>
 I did not separate the inital assignment from the spicy version, so this project is essentially the proper way to create a Hangman game. The **goal of the assignment** is to create a working hangman game that prints out the hangman whenever a guess is incorrect, as well as storing and printing out all past incorrect guesses. If a guess is correct, it slots the correct guess into the corresponding location in the dashes. The program additionally does not let you make any duplicate guesses, right or wrong, or print out more than one letter.
+The code starts out with defining the body of the hangman - 
+```python
+err1 = "---┐ \n   O \n  \|/ \n   | \n  /  "
+err2 = "---┐ \n   O \n  \|/ \n   | \n   "
+err3 = "---┐ \n   O \n  \|/ \n    "
+err4 = "---┐ \n   O \n  \| "
+err5 = "---┐ \n   O \n  \ "
+err6 = "---┐ \n   O \n   "
+err7 = "You killed him!"
+```
+Since there are only 7 parts of the body that we print, you only get 7 errors.
+<br/>
+We then make our first function, which prints out the proper string of hangman pieces for the amount of errors:
+``` python
+def errors(a):
+    if a == 1:
+        print(err1)
+    if a == 2:
+        print(err2)
+    if a == 3:
+        print(err3)
+    if a == 4:
+        print(err4)
+    if a == 5:
+        print(err5)
+    if a == 6:
+        print(err6)
+    if a == 7:
+        print(err7)
+```
 
-<br/>
-<br/>
-<br/>
-<br/>
+
+---
 
 # ***Sudoku***
 notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
