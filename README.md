@@ -202,6 +202,7 @@ Look up how to use functions as well as when to return them inside the function,
 
 # ***Sudoku***
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/bumpyride.gif" alt="alt text" width="500" height="200">
+
 ### ***BUCKLE UP, WE'RE IN FOR A BUMPY RIDE***
 
 <br/>
