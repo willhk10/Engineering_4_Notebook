@@ -149,7 +149,10 @@ These lines of code are going through each line of the list provided by the spli
 The purpose of this assignment is to do the code for the Loops and Strings assignment in as little amount of lines as possible. I successfully got the code from 9 lines all the way down to 5. I do have to give some credit to my classmate [Alden Dent](https://github.com/adent11) for assisting me with getting it to 1.
 
 # ***Hangman***
-Before the explanation, here are a few things you should look up and understand before you attempt to write the [Hangman](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/PerfectHangman.py) 
+Before the explanation, here are a few things you should look up and understand before you attempt to write the [Hangman program](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/PerfectHangman.py) You need to understand how to take the length of a word and use it in code, use functions, and return variables inside of a function. [Here](https://www.w3schools.com/python/python_functions.asp) is a really good resource that I was fortunate enough to find for help with functions.
+<br/>
+I did not separate the inital assignment from the spicy version, so this project is essentially the proper way to create a Hangman game. The **goal of the assignment** is to create a working hangman game that prints out the hangman whenever a guess is incorrect, as well as storing and printing out all past incorrect guesses. If a guess is correct, it slots the correct guess into the corresponding location in the dashes. The program additionally does not let you make any duplicate guesses, right or wrong, or print out more than one letter.
+
 <br/>
 <br/>
 <br/>
