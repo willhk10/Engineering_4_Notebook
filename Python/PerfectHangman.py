@@ -34,9 +34,9 @@ seperator = " "
 
 def showguesses(b, Correctguesses, blanks):
     #Correctguesses = ["a","m","e"]
-    for Correctguesses in word:
-        if Correctguesses == word[b]:
-            blanks = blanks[:b] + word[b] + blanks[b + 1:]
+    for Correctguesses in word: #repeat the amount of time that the guesses are in the word
+        if Correctguesses == word[b]: #if the guess is the same as the current letter being checked in the original word, do the following code
+            blanks = blanks[:b] + word[b] + blanks[b + 1:] #changing the blank line to the correct guess
     return blanks
 
 
@@ -45,9 +45,10 @@ print("---┐ \n   O \n  \|/ \n   | \n  / \ ")
 Misguess = ""
 Correctguesses = ""
 
-while True:
-    guess2 = input("What is your guess, player 2: ")
-    if len(guess2) != 1:
+while True: # loop
+    guess2 = input("What is your guess, player 2: ") 
+    if len(guess2) != 1: 
+    #preventing more than 1 letter guesses
         print("Don't give me 2 letters")
         continue
     if guess2 in word: 
@@ -57,31 +58,36 @@ while True:
         
     if CorrectGuess == False:
         if guess2 in Misguess:
-            print("Already did that one: Try again.")
+# preventing duplication of guesses
+            print("Already did that one: Try again.") 
             continue
-        Misguess = (Misguess + " " + guess2)
+        Misguess = (Misguess + " " + guess2) #defining the missguess and adding in a new misguess every iteration
         print(guess2 + " is incorrect.")
         print("current missed guesses: " + Misguess)
-        a = a + 1
+        a = a + 1 # adds one to a everytime there is a false guess, which then goes into the errors function.
         errors(a)
-        if a == 7:
+        if a == 7: # if max number of guesses reached
             errors(a)
             print("You lost")
             break
     
     if CorrectGuess == True:
         if guess2 in Correctguesses:
+# preventing duplication of guesses
             print("Already guessed that, it worked. Try again pls")
             continue
         Correctguesses = (Correctguesses +  guess2)
+       #creating a list of correctguesses, adds in the new correct guess every repetition
         b = 0
         print(" Nice!")
         for guess in word:
             guess = guess2
+         #This code checks through the word to see if the guess is equal to any letters in the word, and 
             val = word[b]
-            if val == guess:
+            if val == guess: #if it's true then it goes into the showguesses function 
                 blanks = showguesses(b, Correctguesses, blanks)
-                f = seperator.join(blanks)
+                f = seperator.join(blanks) #This adds in a space inbetween the dashes
+                             #if it's false then it goes to the next letter by adding 1 to b, which is the position in the word
             b = b + 1
         print(f)
         
@@ -90,5 +96,5 @@ while True:
         else:
             print(Misguess + " " + "is incorrect")
             print("current missed guesses: " + Misguess)
-        if blanks == word:
+        if blanks == word: #if finished
                 break
