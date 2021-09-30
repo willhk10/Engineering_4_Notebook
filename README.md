@@ -182,7 +182,15 @@ def errors(a):
     if a == 7:
         print(err7)
 ```
-
+The most difficult part of the code was the function to show the guesses and store them through every guess
+``` python
+def showguesses(b, Correctguesses, blanks):
+    #Correctguesses = ["a","m","e"]
+    for Correctguesses in word: #repeat the amount of time that the guesses are in the word
+        if Correctguesses == word[b]: #if the guess is the same as the current letter being checked in the original word, do the following code
+            blanks = blanks[:b] + word[b] + blanks[b + 1:] #changing the blank line to the correct guess
+    return blanks
+```
 
 ---
 
