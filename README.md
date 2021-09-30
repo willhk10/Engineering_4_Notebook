@@ -200,7 +200,7 @@ this works by repeating through an if statement the amount of times that a corre
 
 # ***Sudoku***
 ***BUCKLE UP, WE'RE IN FOR A BUMPY RIDE***
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/bumpyride.gif" alt="alt text" width="500" height="500">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/bumpyride.gif" alt="alt text" width="500" height="200">
 
 
 
