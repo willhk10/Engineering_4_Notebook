@@ -204,7 +204,16 @@ Look up how to use functions as well as when to return them inside the function,
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/bumpyride.gif" alt="alt text" width="500" height="200">
 
 
-This assignment was an extreme challenge in so so many ways. 
+Let me preface this by saying that this assignment was a lareg challenge in so so many ways. Before attempting this assignment, you must understand a few things:
+* [RECURSION](https://realpython.com/python-thinking-recursively/#:~:text=Recursive%20Functions%20in%20Python,-Now%20that%20we&text=A%20recursive%20function%20is%20a,met%20to%20return%20a%20result.) 
+* [Logic](https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/)
+* [Arrays](https://www.w3schools.com/python/python_arrays.asp)
+* [Lists](https://www.w3schools.com/python/python_lists.asp)
+* [Functions](https://www.w3schools.com/python/python_functions.asp)
+* 
+I will not be going into detail into what these are because the links explain it much better than I ever could.
+<br/>
+Sudoku 
 
 notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 <br/>
