@@ -195,15 +195,17 @@ def showguesses(b, Correctguesses, blanks):
 this works by repeating through an if statement the amount of times that a correct guess is in the word given by the user. "Blanks" is initially a word with equal length to the word to guess, but it is all underlines. The code counts through each value in the word to determine where the guess is in the initial word, and then places the guess in the according location in the blanks string.
 <br/>
 **Reflection** - Looking back on this assignment, I realized that I really had to do a lot of investigating into how to save the correct guesses, and not have it reset every time there is a correct guess. I did this by returning blanks at the end of the showguesses function.
+### TLDR; 
+Look up how to use functions as well as when to return them inside the function, *len()* and *for* and *if* statements, and how to use logic in Python. 
 
 ---
 
 # ***Sudoku***
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/bumpyride.gif" alt="alt text" width="500" height="200">
-<br/>
 
 ***BUCKLE UP, WE'RE IN FOR A BUMPY RIDE***
-
+<br/>
+This assignment was an extreme challenge in so so many ways. 
 
 notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 <br/>
