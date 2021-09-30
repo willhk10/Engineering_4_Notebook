@@ -184,6 +184,7 @@ def errors(a):
 ```
 The most difficult part of the code was the function to show the guesses and store them through every guess
 ``` python
+blanks = "_" * len(word)
 def showguesses(b, Correctguesses, blanks):
     #Correctguesses = ["a","m","e"]
     for Correctguesses in word: #repeat the amount of time that the guesses are in the word
@@ -191,6 +192,8 @@ def showguesses(b, Correctguesses, blanks):
             blanks = blanks[:b] + word[b] + blanks[b + 1:] #changing the blank line to the correct guess
     return blanks
 ```
+this works by repeating through an if statement the amount of times that a correct guess is in the word given by the user. "Blanks" is initially a word with equal length to the word to guess, but it is all underlines. The code counts through each value in the word to determine where the guess is in the initial word, and then places the guess in the according location in the blanks string.
+
 
 ---
 
