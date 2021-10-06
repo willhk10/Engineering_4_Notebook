@@ -8,7 +8,7 @@
 * [Python Calculator](#Python_Calculator) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spicy Version](#Spicy_Version)*
 * [Quadratic Solver](#Quadratic_Solver)
-* [Seperating Words for Some Reason](#LoopsAndStrings) <br/>
+* [Separating Words for Some Reason](#LoopsAndStrings) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Making It Harder for Some Reason](#LoopsAndStrings_Spicy_Version)*
 * [Hangman (but you cut him apart) ](#Hangman)
 * [Sudoku!!!!!](#Sudoku)
