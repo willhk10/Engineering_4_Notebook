@@ -1,5 +1,5 @@
 # ***Engineering_4_Notebook***
-### This is my exploration through Raspberry Pi, Python, and everything else Engineering 4 may offer.
+### This is my exploration through Raspberry Pi, Python, CAD, and everything else Engineering 4 may offer.
 
 ## Table_of_Contents
 * [Hello World (First assignment with Pi)](#Hello_World)
@@ -217,8 +217,7 @@ Sudoku
 
 notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 <br/>
-<br/>
-<br/>
-<br/>
+
+# ***Skateboard_CAD***
 
 # [Back To Top](#Engineering_4_Notebook)
