@@ -221,9 +221,9 @@ notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 
 # ***Skateboard_CAD***
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/FullView.png" alt="alt text" width="500" height="500">
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/TrucksBaseplate.png" alt="alt text" width="500" height="300">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/TrucksBaseplate.png" alt="alt text" width="500" height="400">
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/TruckHanger.png" alt="alt text" width="500" height="500">
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Bushing.png" alt="alt text" width="500" height="300">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Bushing.png" alt="alt text" width="500" height="400">
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/WheelAndBearing.png" alt="alt text" width="500" height="500">
 
 
