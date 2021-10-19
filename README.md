@@ -133,7 +133,7 @@ Because this is all inside of the function doMath, I then had to actually call t
     else:
         print("No Real Roots")
 ```
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/quadraticsolver.png" alt="alt text" width="600" height="500">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/quadraticsolver.png" alt="alt text" width="1080" height="720">
 <br/>
 
 # ***LoopsAndStrings***
@@ -150,7 +150,7 @@ These lines of code are going through each line of the list provided by the spli
 
 ### *LoopsAndStrings_Spicy_Version*
 The purpose of this assignment is to do the code for the Loops and Strings assignment in as little amount of lines as possible. I successfully got the code from 9 lines all the way down to 5. I do have to give some credit to my classmate [Alden Dent](https://github.com/adent11) for assisting me with getting it to 1.
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/stringsandloops.png" alt="alt text" width="600" height="500">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/stringsandloops.png" alt="alt text" width="1080" height="720">
 
 
 # ***Hangman***
