@@ -226,6 +226,7 @@ notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Bushing.png" alt="alt text" width="500" height="400">
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/WheelandBearing.png" alt="alt text" width="500" height="500">
 
-
+###Reflection
+This assignment was fairly easy, however I did learn some new things. I learned many new shortcuts for selecting dimensions, viewing the sketch plane, and selecting different tools. I also learned about using the "Use" tool, which i had known about but did not know the full extend of. In the end, however, the entire concept of the project is very similar to all other CAD projects. 
 
 # [Back To Top](#Engineering_4_Notebook)
