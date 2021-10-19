@@ -10,7 +10,7 @@
 * [Quadratic Solver](#Quadratic_Solver)
 * [Separating Words for Some Reason](#LoopsAndStrings) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Making It Harder for Some Reason](#LoopsAndStrings_Spicy_Version)*
-* [Hangman (but you cut him apart) ](#Hangman)
+* [Hackman (Hangman, but you cut him apart) ](#Hangman)
 * [Sudoku!!!!!](#Sudoku)
 * [Skateboard!](#Skateboard_CAD)
 
