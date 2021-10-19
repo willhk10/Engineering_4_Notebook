@@ -79,6 +79,7 @@ print("Quotient:\t" + str(doMath(a,b,4)))
 print("Modulo:\t\t" + str(doMath(a,b,5)))
 ```
 
+
 ## **Spicy_Version**
 This was almost the exact same as the previous assignment, however with a small addition. We had to add another calculation - **the factorial**. I had to look up [how to code factorials](https://www.geeksforgeeks.org/factorial-in-python/) without using an imported math function. The only addition I had to make to the code were some lines defining factorials:
 ``` python
@@ -132,6 +133,7 @@ Because this is all inside of the function doMath, I then had to actually call t
     else:
         print("No Real Roots")
 ```
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/quadraticsolver.png" alt="alt text" width="600" height="500">
 <br/>
 
 # ***LoopsAndStrings***
@@ -148,6 +150,8 @@ These lines of code are going through each line of the list provided by the spli
 
 ### *LoopsAndStrings_Spicy_Version*
 The purpose of this assignment is to do the code for the Loops and Strings assignment in as little amount of lines as possible. I successfully got the code from 9 lines all the way down to 5. I do have to give some credit to my classmate [Alden Dent](https://github.com/adent11) for assisting me with getting it to 1.
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/stringsandloops.png" alt="alt text" width="600" height="500">
+
 
 # ***Hangman***
 Before the explanation, here are a few things you should look up and understand before you attempt to write the [Hangman program](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/PerfectHangman.py) You need to understand how to take the length of a word and use it in code, use functions, and return variables inside of a function. [Here](https://www.w3schools.com/python/python_functions.asp) is a really good resource that I was fortunate enough to find for help with functions.
@@ -196,6 +200,8 @@ def showguesses(b, Correctguesses, blanks):
 this works by repeating through an if statement the amount of times that a correct guess is in the word given by the user. "Blanks" is initially a word with equal length to the word to guess, but it is all underlines. The code counts through each value in the word to determine where the guess is in the initial word, and then places the guess in the according location in the blanks string.
 <br/>
 **Reflection** - Looking back on this assignment, I realized that I really had to do a lot of investigating into how to save the correct guesses, and not have it reset every time there is a correct guess. I did this by returning blanks at the end of the showguesses function.
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Hangman.png" alt="alt text" width="600" height="500">
+
 ### TLDR; 
 Look up how to use functions as well as when to return them inside the function, *len()* and *for* and *if* statements, and how to use logic in Python. 
 
