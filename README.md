@@ -226,6 +226,7 @@ notes - [cool lady](https://github.com/kying18/sudoku/blob/main/sudoku.py)
 <br/>
 
 # ***Skateboard_CAD***
+In this assingment, I had to use all of the tools that I have previously used when doing CAD to create a skateboard. I had to create the deck, trucks, and wheels and bearings all separately, as well as put it all together with mates and screws. This assignment also required me to show the different weights along the way, and I was fully on-point the whole time.
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/FullView.png" alt="alt text" width="500" height="500">
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/TrucksBaseplate.png" alt="alt text" width="500" height="400">
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/TruckHanger.png" alt="alt text" width="500" height="500">
