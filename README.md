@@ -236,4 +236,10 @@ In this assingment, I had to use all of the tools that I have previously used wh
 ### Reflection
 This assignment was fairly easy, however I did learn some new things. I learned many new shortcuts for selecting dimensions, viewing the sketch plane, and selecting different tools. I also learned about using the "Use" tool, which i had known about but did not know the full extend of. In the end, however, the entire concept of the project is very similar to all other CAD projects. 
 
+# ***Messing with legos For Some Reason***
+In this assignment, we are 
+
+<br/>
+<br/>
+
 # [Back To Top](#Engineering_4_Notebook)
