@@ -40,7 +40,7 @@ def showguesses(b, Correctguesses, blanks):
     return blanks
 
 
-print("---┐ \n   O \n  \|/ \n   | \n  / \ ")
+print("---| \n   O \n  \|/ \n   | \n  / \ ")
 
 Misguess = ""
 Correctguesses = ""
