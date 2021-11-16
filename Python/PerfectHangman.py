@@ -1,11 +1,11 @@
 
 # Online Python - IDE, Editor, Compiler, Interpreter
-err1 = "---┐ \n   O \n  \|/ \n   | \n  /  "
-err2 = "---┐ \n   O \n  \|/ \n   | \n   "
-err3 = "---┐ \n   O \n  \|/ \n    "
-err4 = "---┐ \n   O \n  \| "
-err5 = "---┐ \n   O \n  \ "
-err6 = "---┐ \n   O \n   "
+err1 = "---| \n   O \n  \|/ \n   | \n  /  "
+err2 = "---| \n   O \n  \|/ \n   | \n   "
+err3 = "---| \n   O \n  \|/ \n    "
+err4 = "---| \n   O \n  \| "
+err5 = "---| \n   O \n  \ "
+err6 = "---| \n   O \n   "
 err7 = "You killed him!"
 a = 0
 b = 0
