@@ -13,6 +13,7 @@
 * [Hackman (Hangman, but you cut him apart) ](#Hangman)
 * [Sudoku!!!!!](#Sudoku)
 * [Skateboard!](#Skateboard_CAD)
+* [Legos!](#Legos!)
 
 <br/>
 <br/>
@@ -236,8 +237,8 @@ In this assingment, I had to use all of the tools that I have previously used wh
 ### Reflection
 This assignment was fairly easy, however I did learn some new things. I learned many new shortcuts for selecting dimensions, viewing the sketch plane, and selecting different tools. I also learned about using the "Use" tool, which i had known about but did not know the full extend of. In the end, however, the entire concept of the project is very similar to all other CAD projects. 
 
-# ***Messing with legos For Some Reason***
-In this assignment, we are sad 
+# ***Legos!***
+In this assignment, we were tasked with creating several configurations for legos, and this allowed us to create  
 <br/>
 
 <br/>
