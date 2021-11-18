@@ -13,7 +13,7 @@
 * [Hackman (Hangman, but you cut him apart) ](#Hangman)
 * [Sudoku!!!!!](#Sudoku)
 * [Skateboard!](#Skateboard_CAD)
-* [Legos!](#Legos!)
+* [Legos!](#Legos)
 
 <br/>
 <br/>
