@@ -238,7 +238,10 @@ In this assingment, I had to use all of the tools that I have previously used wh
 This assignment was fairly easy, however I did learn some new things. I learned many new shortcuts for selecting dimensions, viewing the sketch plane, and selecting different tools. I also learned about using the "Use" tool, which i had known about but did not know the full extend of. In the end, however, the entire concept of the project is very similar to all other CAD projects. 
 
 # ***Legos!***
-In this assignment, we were tasked with creating several configurations for legos, and this allowed us to create  
+In this assignment, we were tasked with creating several configurations for legos, and this allowed us to create anything 
+
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Duck.png" alt="alt text" width="500" height="500">
+
 <br/>
 
 <br/>
