@@ -242,6 +242,10 @@ In this assignment, we were tasked with creating several configurations for lego
 
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Duck.png" alt="alt text" width="500" height="500">
 
+<br/>
+
+I then had to take the legos I created and create something of my own, so I made a house.
+
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/house.png" alt="alt text" width="500" height="500">
 
 <br/>
