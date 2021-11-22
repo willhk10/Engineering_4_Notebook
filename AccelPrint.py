@@ -30,12 +30,13 @@ bottom = height-padding
 
 
 # Draw a black filled box to clear the image.
-draw.rectangle((0,0,width,height), outline=0, fill=0)
+
 # Load default font.
 font = ImageFont.load_default()
 
 while True:
     draw = ImageDraw.Draw(image)
+    draw.rectangle((0,0,width,height), outline=0, fill=0)
     # Read the X, Y, Z axis acceleration values and print them.
     disp.begin()
 # Clear display.
