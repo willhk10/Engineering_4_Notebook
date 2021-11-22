@@ -52,7 +52,7 @@ while True:
     # Wait half a second and repeat.
     disp.image(image)
     disp.display()
-    disp.clear()
+
 # Write two lines of text.
 
 
