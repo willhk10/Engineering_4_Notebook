@@ -71,11 +71,11 @@ draw.rectangle((0,0,width,height), outline=0, fill=0)
 x = 0
 
 # Load default font.
-font = ImageFont.load_default()
+#font = ImageFont.load_default()
 
 # Alternatively load a TTF font.  Make sure the .ttf font file is in the same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
-#font = ImageFont.truetype('Minecraftia.ttf', 8)
+font = ImageFont.truetype('Minecraftia.ttf', 8)
 
 # Write two lines of text.
 draw.text((x, top),    'Hello',  font=font, fill=255)
