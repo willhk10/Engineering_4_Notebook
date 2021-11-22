@@ -27,7 +27,7 @@ shape_width = 20
 top = padding
 bottom = height-padding
 # Get drawing object to draw on image.
-draw = ImageDraw.Draw(image)
+
 
 # Draw a black filled box to clear the image.
 draw.rectangle((0,0,width,height), outline=0, fill=0)
@@ -35,6 +35,7 @@ draw.rectangle((0,0,width,height), outline=0, fill=0)
 font = ImageFont.load_default()
 
 while True:
+    draw = ImageDraw.Draw(image)
     # Read the X, Y, Z axis acceleration values and print them.
     disp.begin()
 # Clear display.
