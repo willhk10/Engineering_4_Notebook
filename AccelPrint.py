@@ -39,8 +39,6 @@ while True:
     draw.rectangle((0,0,width,height), outline=0, fill=0)
     # Read the X, Y, Z axis acceleration values and print them.
     disp.begin()
-# Clear display.
-    
     disp.display()
     accel, mag = lsm303.read()
     # Grab the X, Y, Z components from the reading and print them out.
@@ -54,7 +52,6 @@ while True:
     # Wait half a second and repeat.
     disp.image(image)
     disp.display()
-    time.sleep(.5)
     disp.clear()
 # Write two lines of text.
 
