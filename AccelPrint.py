@@ -53,12 +53,12 @@ while True:
           accel_x, accel_y, accel_z, mag_x, mag_y, mag_z))
     # Wait half a second and repeat.
     time.sleep(0.5)
+    disp.image(image)
+    disp.display()
 
 # Write two lines of text.
 
 
 
 # Display image.
-disp.image(image)
-disp.display()
 
