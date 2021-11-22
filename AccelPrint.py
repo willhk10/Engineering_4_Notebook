@@ -15,11 +15,7 @@ disp = Adafruit_SSD1306.SSD1306_128_64(rst=RST, i2c_address=0x3d)
 # Initialize library.
 
 
-disp.begin()
 
-# Clear display.
-disp.clear()
-disp.display()
 
 # Create blank image for drawing.
 # Make sure to create image with mode '1' for 1-bit color.
@@ -40,6 +36,10 @@ font = ImageFont.load_default()
 
 while True:
     # Read the X, Y, Z axis acceleration values and print them.
+    disp.begin()
+# Clear display.
+    disp.clear()
+    disp.display()
     accel, mag = lsm303.read()
     # Grab the X, Y, Z components from the reading and print them out.
     accel_x, accel_y, accel_z = accel
