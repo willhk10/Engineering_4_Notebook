@@ -49,10 +49,9 @@ while True:
     draw.text((x, top),    "x: " + (str(accel_x)),  font=font, fill=255)
     draw.text((x, top+20), "y: " + (str(accel_y)), font=font, fill=255)
     draw.text((x, top+40), "z: "  + (str(accel_z)), font=font, fill=255)
-    print('Accel X={0}, Accel Y={1}, Accel Z={2}, Mag X={3}, Mag Y={4}, Mag Z={5}'.format(
+    #print('Accel X={0}, Accel Y={1}, Accel Z={2}, Mag X={3}, Mag Y={4}, Mag Z={5}'.format(
           accel_x, accel_y, accel_z, mag_x, mag_y, mag_z))
     # Wait half a second and repeat.
-    time.sleep(0.5)
     disp.image(image)
     disp.display()
 
