@@ -58,7 +58,10 @@ disp.display()
 width = disp.width
 height = disp.height
 image = Image.new('1', (width, height))
-
+padding = 2
+shape_width = 20
+top = padding
+bottom = height-padding
 # Get drawing object to draw on image.
 draw = ImageDraw.Draw(image)
 
