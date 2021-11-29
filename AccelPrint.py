@@ -47,7 +47,7 @@ while True:
     draw.text((x, top),    "x: " + (str(accel_x)),  font=font, fill=255)
     draw.text((x, top+20), "y: " + (str(accel_y)), font=font, fill=255)
     draw.text((x, top+40), "z: "  + (str(accel_z)), font=font, fill=255)
-    disp.image(image)
+    #disp.image(image)
     disp.display()
 
 # Write two lines of text.
