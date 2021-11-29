@@ -37,6 +37,10 @@ disp.begin()
 font = ImageFont.load_default()
 draw = ImageDraw.Draw(image)
 
+centerX = width/2
+centerY = height/2
+circleRad = 5
+
 while True:
     
     draw.rectangle((0,0,width,height), outline=0, fill=0)
@@ -45,7 +49,12 @@ while True:
     # Grab the X, Y, Z components from the reading and print them out.
     accel_x, accel_y, accel_z = accel
     mag_x, mag_y, mag_z = mag
-    draw.ellipse((x, top + accel_x / 10, x+shape_width, bottom/2 + accel_x / 10), outline=255, fill=0)
+
+
+    draw.ellipse((circleX-circleRad, circleY-circleRad, circleX+circleRad, circleY+circleRad), outline = 255, fill = 0)
+
+    #draw.ellipse((x, top + accel_x / 10, x+shape_width, bottom/2 + accel_x / 10), outline=255, fill=0)
+
 
     draw.text((x, top+20), "y: " + (str(round(accel_y / 107, 3))), font=font, fill=255)
     draw.text((x, top+40), "z: "  + (str(round(accel_z / 107, 3))), font=font, fill=255)
