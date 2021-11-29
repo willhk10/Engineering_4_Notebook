@@ -46,7 +46,7 @@ while True:
     accel_x, accel_y, accel_z = accel
     mag_x, mag_y, mag_z = mag
 
-    draw.ellipse((x, top + (accel_x / 10), x+shape_width, bottom), outline=255, fill=0)
+    draw.circle((x, top + (accel_x / 10), x+shape_width, bottom), outline=255, fill=0)
 
     draw.text((x, top+20), "y: " + (str(round(accel_x / 107, 3))), font=font, fill=255)
     draw.text((x, top+20), "y: " + (str(round(accel_y / 107, 3))), font=font, fill=255)
