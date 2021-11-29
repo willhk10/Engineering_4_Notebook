@@ -30,16 +30,17 @@ bottom = height-padding
 
 
 # Draw a black filled box to clear the image.
+disp.begin()
 
 # Load default font.
+
 font = ImageFont.load_default()
 draw = ImageDraw.Draw(image)
 
 while True:
     
     draw.rectangle((0,0,width,height), outline=0, fill=0)
-    # Read the X, Y, Z axis acceleration values and print them.
-    disp.begin()
+
     accel, mag = lsm303.read()
     # Grab the X, Y, Z components from the reading and print them out.
     accel_x, accel_y, accel_z = accel
@@ -48,6 +49,8 @@ while True:
     draw.text((x, top),    "x: " + (str(accel_x)),  font=font, fill=255)
     draw.text((x, top+20), "y: " + (str(accel_y)), font=font, fill=255)
     draw.text((x, top+40), "z: "  + (str(accel_z)), font=font, fill=255)
+
+
     disp.image(image)
     disp.display()
     #time.sleep(.5)
