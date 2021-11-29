@@ -46,9 +46,9 @@ while True:
     accel_x, accel_y, accel_z = accel
     mag_x, mag_y, mag_z = mag
 
-    draw.text((x, top),    "x: " + (str(round(accel_x / 107, 3)),  font=font, fill=255)
-    draw.text((x, top+20), "y: " + (str(round(accel_y / 107, 3)), font=font, fill=255)
-    draw.text((x, top+40), "z: "  + (str(round(accel_z / 107, 3)), font=font, fill=255)
+    draw.text((x, top),    "x: " + (str(round(accel_x / 107, 3))),  font=font, fill=255)
+    draw.text((x, top+20), "y: " + (str(round(accel_y / 107, 3))), font=font, fill=255)
+    draw.text((x, top+40), "z: "  + (str(round(accel_z / 107, 3))), font=font, fill=255)
 
 
     disp.image(image)
