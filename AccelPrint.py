@@ -36,7 +36,7 @@ font = ImageFont.load_default()
 
 while True:
     draw = ImageDraw.Draw(image)
-    #draw.rectangle((0,0,width,height), outline=0, fill=0)
+    draw.rectangle((0,0,width,height), outline=0, fill=0)
     # Read the X, Y, Z axis acceleration values and print them.
     disp.begin()
     accel, mag = lsm303.read()
@@ -49,6 +49,7 @@ while True:
     draw.text((x, top+40), "z: "  + (str(accel_z)), font=font, fill=255)
     disp.image(image)
     disp.display()
+    time.sleep(.01)
 
 # Write two lines of text.
 
