@@ -50,7 +50,7 @@ while True:
     accel_x, accel_y, accel_z = accel
     mag_x, mag_y, mag_z = mag
 
-    circleX, circleY = centerX + accel_x/10, centerY + accel_y/10
+    circleX, circleY = centerX - accel_x/10, centerY + accel_y/10
 
     draw.ellipse((circleX-circleRad, circleY-circleRad, circleX+circleRad, circleY+circleRad), outline = 255, fill = 0)
 
