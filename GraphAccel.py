@@ -67,7 +67,7 @@ while True:
 
 
     draw.text((x, top+20), "x: " + (str(round(accel_x / 107, 3))), font=font, fill=255)
-    draw.text((x, bottom - maxFontHeight), "y: "  + (str(round(accel_y / 107, 3))), font=font, fill=255)
+    draw.text((width//2, bottom - maxFontHeight), "y: "  + (str(round(accel_y / 107, 3))), font=font, fill=255)
 
 
     disp.image(image)
