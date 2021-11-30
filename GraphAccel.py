@@ -66,8 +66,8 @@ while True:
     #draw.ellipse((x, top + accel_x / 10, x+shape_width, bottom/2 + accel_x / 10), outline=255, fill=0)
 
 
-    draw.text((x, top+20), "y: " + (str(round(accel_x / 107, 3))), font=font, fill=255)
-    draw.text((x, top+40), "z: "  + (str(round(accel_y / 107, 3))), font=font, fill=255)
+    draw.text((x, top+20), "x: " + (str(round(accel_x / 107, 3))), font=font, fill=255)
+    draw.text((x, bottom - maxFontHeight), "y: "  + (str(round(accel_y / 107, 3))), font=font, fill=255)
 
 
     disp.image(image)
