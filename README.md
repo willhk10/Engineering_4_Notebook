@@ -14,8 +14,12 @@
 * [Sudoku!!!!!](#Sudoku)
 * [Skateboard!](#Skateboard_CAD)
 * [Legos!](#Legos)
-* a
+* [Multi Tool](#multi-tool)
 * [Pi LED Blink](#pi-led-blink)
+* [Shutdown Button](#shutdown-button)
+* [GPIO Pins - I2C](##gpio-pins---i2c)
+* [Headless Accelerometer](##headless-accelerometer)
+* [Camera](#camera)
 
 <br/>
 <br/>
@@ -262,11 +266,10 @@ I then had to take the legos I created and create something of my own, so I made
 # ***Pi LED Blink***
 ### Description
 In this assingment, I had to learn how to use the Pi T-Cobbler, along with reassociating myself with all of the wiring. This included LEDs, resistors, etc.
-### Wiring
+### Wiring // Evidence
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/blinkygif.gif" alt="alt text" width="500" height="500">
-
-### Evidence
 ### Code
+[code](#https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/blink2leds.py)
 ### Reflections
 ---
 
