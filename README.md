@@ -249,8 +249,52 @@ I then had to take the legos I created and create something of my own, so I made
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/house.png" alt="alt text" width="500" height="500">
 
 <br/>
+<br/>
 
-<br/>
-<br/>
+# ***Multi-Tool***
+### Description
+### Evidence
+### Reflections
+
+---
+# ***Pi LED Blink***
+### Description
+### Wiring
+### Evidence
+### Code
+### Reflections
+---
+
+# ***Shutdown Button***
+### Description
+### Wiring
+### Evidence
+### Code
+### Reflections
+---
+# ***GPIO Pins - I2C***
+### Description
+### Wiring
+### Evidence
+### Code
+### Reflections
+---
+
+# ***Headless Accelerometer***
+### Description
+### Wiring
+### Evidence
+### Code
+### Reflections
+---
+
+# ***Camera***
+### Description
+### Wiring
+### Evidence
+### Code
+### Reflections
+
+
 
 # [Back To Top](#Engineering_4_Notebook)
