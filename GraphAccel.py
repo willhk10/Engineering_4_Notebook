@@ -52,7 +52,6 @@ maxFontWidth, maxFontHeight = font.getsize("x:-99.99")
 
 
 while True:
-    
     draw.rectangle((0,0,width,height), outline=0, fill=0)
 
     accel, mag = lsm303.read()
@@ -60,7 +59,7 @@ while True:
     accel_x, accel_y, accel_z = accel
     mag_x, mag_y, mag_z = mag
 
-    circleX, circleY = constrain(centerX - accel_y/10, maxFontWidth + padding, width), constrain(centerY - accel_x/10, 0, height - (maxFontHeight + padding))
+    circleX, circleY = constrain(centerX - accel_y/10, maxFontWidth + padding + circleRad, width - circleRad - padding), constrain(centerY - accel_x/10, 0 + circleRad + padding, height - maxFontHeight - padding - circleRad)
 
     draw.ellipse((circleX-circleRad, circleY-circleRad, circleX+circleRad, circleY+circleRad), outline = 255, fill = 0)
 
