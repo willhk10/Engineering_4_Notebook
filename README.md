@@ -271,7 +271,7 @@ In this assingment, I had to learn how to use the Pi T-Cobbler, along with reass
 
 ### Code
 
-[code](#https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/blink2leds.py)
+[code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/blink2leds.py)
 ### Reflections
 ---
 
