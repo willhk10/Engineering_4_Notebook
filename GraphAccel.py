@@ -41,6 +41,13 @@ centerX = width/2
 centerY = height/2
 circleRad = 5
 
+def constrain(val, minVal, maxVal):
+    if val < minVal: 
+        val = minVal
+    elif val > maxVal: 
+        val = maxVal
+    return val
+
 while True:
     
     draw.rectangle((0,0,width,height), outline=0, fill=0)
