@@ -48,6 +48,9 @@ def constrain(val, minVal, maxVal):
         val = maxVal
     return val
 
+maxFontWidth, maxFontHeight = font.getsize("x:-99.99")
+
+
 while True:
     
     draw.rectangle((0,0,width,height), outline=0, fill=0)
