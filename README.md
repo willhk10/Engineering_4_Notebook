@@ -268,7 +268,9 @@ I then had to take the legos I created and create something of my own, so I made
 In this assingment, I had to learn how to use the Pi T-Cobbler, along with reassociating myself with all of the wiring. This included LEDs, resistors, etc.
 ### Wiring // Evidence
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/blinkygif.gif" alt="alt text" width="500" height="500">
+
 ### Code
+
 [code](#https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/blink2leds.py)
 ### Reflections
 ---
