@@ -271,7 +271,7 @@ In this assingment, I had to learn how to use the Pi T-Cobbler, along with reass
 
 ### Code
 
-[code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/blink2leds.py)
+this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/Python/blink2leds.py) for the assignment. It is very straightforward, as it is a simple while loop that changes the output states of the two leds.
 ### Reflections
 ---
 
