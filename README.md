@@ -277,6 +277,8 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 
 # ***Shutdown Button***
 ### Description
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/ShutdownButton.gif" alt="alt text" width="500" height="500">
+
 ### Wiring
 ### Evidence
 ### Code
@@ -286,6 +288,8 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 ### Description
 ### Wiring
 ### Evidence
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif.gif" alt="alt text" width="500" height="500">
+
 ### Code
 ### Reflections
 ---
