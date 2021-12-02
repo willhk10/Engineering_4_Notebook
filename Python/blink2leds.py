@@ -11,8 +11,8 @@ GPIO.setup(led2, GPIO.OUT)
 GPIO.output(led2, False)
 
 while True:
-    GPIO.output(led1, led1Mode)
+    GPIO.output(led1, led1Mode) #sets the pins as an output
     GPIO.output(led2, led2Mode)
-    led1Mode = not led1Mode
-    led2Mode = not led2Mode
-    sleep(0.25)
+    led1Mode = not led1Mode #changes setting of led1mode from off to on, or vice versa
+    led2Mode = not led2Mode #changes setting of led2mode from off to on, or vice versa
+    sleep(0.25) #small pause
