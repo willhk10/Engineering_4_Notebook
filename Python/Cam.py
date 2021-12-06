@@ -3,7 +3,7 @@ import picamera
 from time import sleep
 
 
-with picamera.Picamera() as camera:
+with picamera.PiCamera() as camera:
 	camera.resolution = (1024,768)
 	camera.start_preview(alpha=192)
 	sleep(1)
