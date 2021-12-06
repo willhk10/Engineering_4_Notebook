@@ -1,9 +1,12 @@
-from picamera import PiCamera
+import picamera
 
 from time import sleep
 
-camera = PiCamera()
-camera.start_preview(alpha=192)
-sleep(1)
-camera.capture("/home/pi/Documents/Engineering_4_Notebook/Pictures/pic.jpg")
-camera.stop_preview()
+
+with picamera.Picamera() as camera:
+	camera.resolution = (1024,768)
+	camera.start_preview(alpha=192)
+	sleep(1)
+	camera.capture("/home/pi/Documents/Engineering_4_Notebook/Pictures/camera_test.jpg")
+	print("running")
+
