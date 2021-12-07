@@ -316,6 +316,7 @@ This assignment was rather easy, as it was simple coding and following instructi
 ---
 # ***GPIO Pins - I2C***
 ### Description
+The point of this assingment was to both get the accelerometer working and printing out information to the serial monitor, but also to use an OLED monitor to create a graph of the movement of the accelerometer along the ground.
 ### Wiring
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
 
@@ -323,19 +324,25 @@ This assignment was rather easy, as it was simple coding and following instructi
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif1.gif" alt="alt text" width="500" height="500">
 
 ### Reflections
+This assignment was not easy, as I had to re-familiarize myself with various coding forms and functions I was not used to using, and different syntaxes for the new libraries. 
+
 ---
 
 # ***Headless Accelerometer***
 ### Description
+The point of this assignment was to use the system settings of the Pi to have the accelerometer assignment code run as soon as the pi turns on, without any initiation of code or login into the pi. This allows the owner of the pi to connect the pi to a batter and not worry about having to run code into the pi every time there is a restart.
 ### Wiring
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
 
 ### Evidence
 ### Reflections
+This assignment was not difficult at all, as it was simply setting the default code to run to be the code on my Github that ran the accelerometer and OLED screen. 
+
 ---
 
 # ***Camera***
 ### Description
+The point of this assignment was to get the simple Pi camera working to take pictures and print them all to a github folder called Pictures. Another piece of the assignment was to mess with the code a little bit and have it take many different pictures, all with different filters from the PiCamera library.
 ### Wiring
 ### Evidence
 <details><summary><b>Pi Camera Pictures</b></summary><br/>
@@ -343,6 +350,7 @@ This assignment was rather easy, as it was simple coding and following instructi
 <br/></details>
 
 ### Reflections
+This assignment was very simple, as the code was rather straightforward, and the wiring was as simple as plugging in a ribbon connector in to the pi ***(when it is turned off)***. Then, by using a for loop I could cycle through all of the effects I wanted to use, and I could create a new image file for each image taken, and send it to the [Pictures](#https://github.com/willhk10/Engineering_4_Notebook/tree/main/Pictures) folder in my github 
 
 
 
