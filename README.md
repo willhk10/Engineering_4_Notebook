@@ -299,7 +299,7 @@ The main point of this assignment is to get accustomed to using the T-Cobbler wi
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
 
 ### Evidence
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif.mp4" alt="alt text" width="500" height="500">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif1.gif" alt="alt text" width="500" height="500">
 
 ### Reflections
 
