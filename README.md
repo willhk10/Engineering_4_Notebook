@@ -266,7 +266,7 @@ The point of this assignment
 ---
 # ***Pi LED Blink***
 ### Description
-In this assingment, I had to learn how to use the Pi T-Cobbler, along with reassociating myself with all of the wiring. This included LEDs, resistors, etc.
+In this assignment, I had to learn how to use the Pi T-Cobbler, along with reassociating myself with all of the wiring. This included LEDs, resistors, etc.
 ### Wiring // Evidence
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/blinkygif.gif" alt="alt text" width="500" height="500">
 
@@ -278,25 +278,39 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 
 # ***Shutdown Button***
 ### Description
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/ShutdownButton.gif" alt="alt text" width="500" height="500">
-
+The basic premise of this assingment is to create a button that allows you to both shutdown and restart your pi with either a press or a hold. This allows you to have a safe shutdown if you want to make your pi headless, or if you want to restart your pi without a serial monitor.
 ### Wiring
 
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
 
 ### Evidence
 
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/ShutdownButton.gif" alt="alt text" width="500" height="500">
+
 ### Reflections
+This assignment was not very difficult, although I had to go through a lot of frustration when troubleshooting, as there were many moving parts that could have been faulty. The button, the code, the pi, and the wiring of the button were all possible faults. When I eventually found a small bug in my code, the button worked perfectly.
+
 ---
-# ***GPIO Pins - I2C***
+# ***GPIO Pins - Introduction***
 ### Description
+The main point of this assignment is to get accustomed to using the T-Cobbler with different devices, such as the accelerometer. In this assignment, I turned on two LEDS and got them to alternate blinking using a T-Cobbler and the different GPIO pins. 
 
 ### Wiring
-
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
 
 ### Evidence
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif.gif" alt="alt text" width="500" height="500">
+
+### Reflections
+This assignment was rather easy, as it was simple coding and following instructions on Canvas. There was little to no creative challenge, as it was more of a setup for future creative assignments.
+---
+# ***GPIO Pins - I2C***
+### Description
+### Wiring
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
+
+### Evidence
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Pictures/blinkygif.gif" alt="alt text" width="500" height="500">
 
 ### Reflections
 ---
@@ -304,6 +318,8 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 # ***Headless Accelerometer***
 ### Description
 ### Wiring
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
+
 ### Evidence
 ### Reflections
 ---
@@ -312,6 +328,10 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 ### Description
 ### Wiring
 ### Evidence
+<details><summary><b>Pi Camera Pictures</b></summary><br/>
+<IMG SRC="Media/imagewithdenoise.jpg" width = "250" height = "188"><IMG SRC="Media/imagewithemboss.jpg" width = "250" height = "188"><IMG SRC="Media/imagewithnegative.jpg" width = "250" height = "188"><IMG SRC="Media/imageWithsketch.jpg" width = "250" height = "188"><IMG SRC="Media/imageWithsolarize.jpg" width = "250" height = "188">
+<br/></details>
+
 ### Reflections
 
 
