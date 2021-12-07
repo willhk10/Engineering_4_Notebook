@@ -313,7 +313,7 @@ This assignment was rather easy, as it was simple coding and following instructi
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
 
 ### Evidence
-<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/Pictures/AccelGif1.gif" alt="alt text" width="500" height="500">
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif1.gif" alt="alt text" width="500" height="500">
 
 ### Reflections
 ---
