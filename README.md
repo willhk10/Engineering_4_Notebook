@@ -339,7 +339,7 @@ This assignment was rather easy, as it was simple coding and following instructi
 ### Wiring
 ### Evidence
 <details><summary><b>Pi Camera Pictures</b></summary><br/>
-<IMG SRC="Pictures/imagewithdenoise.jpg" width = "250" height = "188"><IMG SRC="Pictures/imagewithemboss.jpg" width = "250" height = "188"><IMG SRC="Pictures/imagewithnegative.jpg" width = "250" height = "188"><IMG SRC="Pictures/imageWithsketch.jpg" width = "250" height = "188"><IMG SRC="Pictures/imageWithsolarize.jpg" width = "250" height = "188">
+<IMG SRC="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/imagewithdenoise.jpg" width = "250" height = "188"><IMG SRC="Pictures/imagewithemboss.jpg" width = "250" height = "188"><IMG SRC="Pictures/imagewithnegative.jpg" width = "250" height = "188"><IMG SRC="Pictures/imageWithsketch.jpg" width = "250" height = "188"><IMG SRC="Pictures/imageWithsolarize.jpg" width = "250" height = "188">
 <br/></details>
 
 ### Reflections
