@@ -302,7 +302,9 @@ The main point of this assignment is to get accustomed to using the T-Cobbler wi
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif.gif" alt="alt text" width="500" height="500">
 
 ### Reflections
+
 This assignment was rather easy, as it was simple coding and following instructions on Canvas. There was little to no creative challenge, as it was more of a setup for future creative assignments.
+
 ---
 # ***GPIO Pins - I2C***
 ### Description
