@@ -259,6 +259,7 @@ I then had to take the legos I created and create something of my own, so I made
 
 # ***Multi-Tool***
 ### Description
+The point of this assignment 
 ### Evidence
 ### Reflections
 
@@ -280,17 +281,23 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/ShutdownButton.gif" alt="alt text" width="500" height="500">
 
 ### Wiring
+
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
+
 ### Evidence
-### Code
+
 ### Reflections
 ---
 # ***GPIO Pins - I2C***
 ### Description
+
 ### Wiring
+
+<img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/image_67174401.JPG" alt="alt text" width="500" height="500">
+
 ### Evidence
 <img src="https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/AccelGif.gif" alt="alt text" width="500" height="500">
 
-### Code
 ### Reflections
 ---
 
@@ -298,7 +305,6 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 ### Description
 ### Wiring
 ### Evidence
-### Code
 ### Reflections
 ---
 
@@ -306,7 +312,6 @@ this is the [code](https://github.com/willhk10/Engineering_4_Notebook/blob/main/
 ### Description
 ### Wiring
 ### Evidence
-### Code
 ### Reflections
 
 
