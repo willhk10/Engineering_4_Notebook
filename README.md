@@ -346,15 +346,19 @@ This assignment was not difficult at all, as it was simply setting the default c
 
 # ***Camera***
 ### Description
-The point of this assignment was to get the simple Pi camera working to take pictures and print them all to a github folder called Pictures. Another piece of the assignment was to mess with the code a little bit and have it take many different pictures, all with different filters from the PiCamera library.
-### Wiring
+The point of this assignment was to get the simple Pi camera working to take pictures and print them all to a github folder called Pictures. Another piece of the assignment was to mess with the code a little bit and have it take many different pictures, all with different filters from the PiCamera library. Then, by using the code from the shutdown button assignment, we had to create a stopmotion movie that would take pictures through a button press.
+
 ### Evidence
 <details><summary><b>Pi Camera Pictures</b></summary><br/>
 <IMG SRC="Pictures/picturewithdenoise.jpg" width = "250" height = "188"><IMG SRC="Pictures/picturewithemboss.jpg" width = "250" height = "188"><IMG SRC="Pictures/picturewithnegative.jpg" width = "250" height = "188"><IMG SRC="Pictures/picturewithsketch.jpg" width = "250" height = "188"><IMG SRC="Pictures/picturewithsolarize.jpg" width = "250" height = "188">
 <br/></details>
 
+### StopMotion movie:
+
+<img src= "https://github.com/willhk10/Engineering_4_Notebook/blob/main/Pictures/TestProj1/ScreenRecording.gif" alt = "alt text" width="500" height="500">
+
 ### Reflections
-This assignment was very simple, as the code was rather straightforward, and the wiring was as simple as plugging in a ribbon connector in to the pi ***(when it is turned off)***. Then, by using a for loop I could cycle through all of the effects I wanted to use, and I could create a new image file for each image taken, and send it to the [Pictures](#https://github.com/willhk10/Engineering_4_Notebook/tree/main/Pictures) folder in my github 
+This assignment was very simple, as the code was rather straightforward, and the wiring was as simple as plugging in a ribbon connector in to the pi ***(when it is turned off)***. Then, by using a for loop I could cycle through all of the effects I wanted to use, and I could create a new image file for each image taken, and send it to the [Pictures](#https://github.com/willhk10/Engineering_4_Notebook/tree/main/Pictures) folder in my github. The Stopmotion movie was very simple, as it only required slight modification of the shutdown button code and the implimentation of the camera taking a photo where the shutdown command would have been
 
 
 
