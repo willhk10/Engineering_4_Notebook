@@ -1,6 +1,10 @@
 # ***Engineering_4_Notebook***
 ### This is my exploration through Raspberry Pi, Python, CAD, and everything else Engineering 4 may offer.
 
+### Useful links - 
+[MP4 to .Gif](https://cloudconvert.com/mp4-to-gif)
+
+
 ## Table_of_Contents
 * [Hello World (First assignment with Pi)](#Hello_World)
 * [Dice Roller](#Dice_Roller) <br/>
